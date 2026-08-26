@@ -3,6 +3,7 @@
 # Recommended: Bind to target strategy or node
 
 # ===== Microsoft / Office 365 / Azure =====
+HOST,outlook.office365.com
 HOST-SUFFIX, 1drv.com, direct
 HOST-SUFFIX, microsoft.com, direct
 HOST-SUFFIX, studentoffers.co, direct
