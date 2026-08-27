@@ -1,0 +1,18 @@
+# ============ Douyin ad blocking (reject) ============
+# Pangolin Advertising SDK (Douyin Information Flow/Open Screen Advertising Core)
+
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytedanceapi.com
+
+# Advertising Alliance
+DOMAIN-SUFFIX,exsvc.com
+DOMAIN-SUFFIX,bytegsdk.com
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
+
+# Douyin advertising domain name (advertising interface in snssdk / amemv domain)
+DOMAIN-SUFFIX,log.snssdk.com
