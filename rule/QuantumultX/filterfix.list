@@ -1,0 +1,59 @@
+# >>>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > anti-ad
+host-keyword, anti-ad.net, direct
+
+# > Alibaba
+host, log.mmstat.com, direct
+host, sycm.mmstat.com, direct
+
+# >>>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > Apple Push Service
+host-keyword, push.apple.com, direct
+# > Apple Time Synchronization
+host, time.apple.com, direct
+# > Apple Weather Service
+host-keyword, weather-edge.apple.com, direct
+host-suffix, weather-data.apple.com, direct
+host-suffix, weather-map.apple.com, direct
+host-suffix, weather-analytics-events.apple.com, direct
+# > Apple in-app purchase service
+host-keyword, buy.itunes.apple.com, direct
+# > Apple icloud
+host-suffix, icloud.com, direct
+# > Apple input method related services
+host-keyword, api.smoot.apple.com, direct
+host-keyword, api.smoot.apple.cn, direct
+# > Apple iMessage service
+host, init.ess.apple.com, direct
+# > Other services of Apple
+host, smp-device-content.apple.com, direct
+host-keyword, ssl.apple.com, direct
+host-keyword, humb.apple.com, direct
+host-keyword, api-adservices.apple.com, direct
+host-keyword, ls.apple.com, direct
+host-keyword, gsa.apple.com, direct
+host-keyword, ess.apple.com, direct
+# > Apple app store
+host, itunes.apple.com, direct
+# > Apple Podcast (Malaysia recommends direct connection, if you encounter playback stuttering, you can change back to proxy)
+host-keyword, amp-api.podcasts.apple.com, direct
+
+# >>>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > QQ space
+host-keyword, ctc.qzs.qzone.qq.com, direct
+
+# >>>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > Strava
+host, analytics.strava.com, direct
+
+# >>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > Tencent
+host, fairplay.l.qq.com, direct
+host, livew.l.qq.com, direct
+host, vd.l.qq.com, direct
+host, vi.l.qq.com, direct
+
+# >>>>>>>>>>>>>>><<<<<<<<<<<<<<
+# > Umeng
+host, msg.umeng.com, direct
+host, msg.umengcloud.com, direct
