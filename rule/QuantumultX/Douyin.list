@@ -1,0 +1,10 @@
+#! name=TikTok diversion
+#! Desc=shut select supported areas
+#!date=2026-08-19 10:10:00
+#############################################
+
+host-suffix, amemv.com
+host-suffix, douyinvod.com
+host-suffix, snssdk.com
+
+#############################################
