@@ -1,0 +1,215 @@
+# CSUN / School Email + Microsoft 365 SSO Stable
+# Quantumult X Rule Format
+# Recommended: Bind to target strategy or node
+
+# ===== Microsoft / Office 365 / Azure =====
+HOST,smtp.office365.com
+HOST,outlook.office365.com
+HOST-SUFFIX, 1drv.com, direct
+HOST-SUFFIX, microsoft.com, direct
+HOST-SUFFIX, studentoffers.co, direct
+HOST-SUFFIX, studentbeans.com, direct
+HOST-SUFFIX, aadrm.com, direct
+HOST-SUFFIX, acompli.com, direct
+HOST-SUFFIX, acompli.net, direct
+HOST-SUFFIX, aka.ms, direct
+HOST-SUFFIX, akadns.net, direct
+HOST-SUFFIX, aspnetcdn.com, direct
+HOST-SUFFIX, assets-yammer.com, direct
+HOST-SUFFIX, azure.com, direct
+HOST-SUFFIX, azure.net, direct
+HOST-SUFFIX, azureedge.net, direct
+HOST-SUFFIX, azureiotcentral.com, direct
+HOST-SUFFIX, azurerms.com, direct
+HOST-SUFFIX, bing.com, direct
+HOST-SUFFIX, bing.net, direct
+HOST-SUFFIX, bingapis.com, direct
+HOST-SUFFIX, cloudapp.net, direct
+HOST-SUFFIX, cloudappsecurity.com, direct
+HOST-SUFFIX, edgesuite.net, direct
+HOST-SUFFIX, gfx.ms, direct
+HOST-SUFFIX, hotmail.com, direct
+HOST-SUFFIX, live.com, direct
+HOST-SUFFIX, live.net, direct
+HOST-SUFFIX, lync.com, direct
+HOST-SUFFIX, msappproxy.net, direct
+HOST-SUFFIX, msauth.net, direct
+HOST-SUFFIX, msauthimages.net, direct
+HOST-SUFFIX, msecnd.net, direct
+HOST-SUFFIX, msedge.net, direct
+HOST-SUFFIX, msft.net, direct
+HOST-SUFFIX, msftauth.net, direct
+HOST-SUFFIX, msftauthimages.net, direct
+HOST-SUFFIX, msftidentity.com, direct
+HOST-SUFFIX, msidentity.com, direct
+HOST-SUFFIX, msn.cn, direct
+HOST-SUFFIX, msn.com, direct
+HOST-SUFFIX, msocdn.com, direct
+HOST-SUFFIX, msocsp.com, direct
+HOST-SUFFIX, mstea.ms, direct
+HOST-SUFFIX, o365weve.com, direct
+HOST-SUFFIX, oaspapps.com, direct
+HOST-SUFFIX, office.com, direct
+HOST-SUFFIX, office.net, direct
+HOST-SUFFIX, office365.com, direct
+HOST-SUFFIX, officeppe.net, direct
+HOST-SUFFIX, omniroot.com, direct
+HOST-SUFFIX, onedrive.com, direct
+HOST-SUFFIX, onenote.com, direct
+HOST-SUFFIX, onenote.net, direct
+HOST-SUFFIX, onestore.ms, direct
+HOST-SUFFIX, outlook.com, direct
+HOST-SUFFIX, outlookmobile.com, direct
+HOST-SUFFIX, phonefactor.net, direct
+HOST-SUFFIX, public-trust.com, direct
+HOST-SUFFIX, sfbassets.com, direct
+HOST-SUFFIX, sfx.ms, direct
+HOST-SUFFIX, sharepoint.com, direct
+HOST-SUFFIX, sharepointonline.com, direct
+```text
+# CSUN / School Email + Microsoft 365 SSO Stable
+# Target Format: Quantumult X (HOST-SUFFIX / HOST)
+# Policy Target: Replace [YOUR_POLICY_NAME] with your actual policy ring/node group (e.g., US_PROXY)
+
+# ===== Microsoft / Office 365 / Azure =====
+HOST-SUFFIX, 1drv.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, microsoft.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, studentoffers.co, [YOUR_POLICY_NAME]
+HOST-SUFFIX, studentbeans.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, aadrm.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, acompli.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, acompli.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, aka.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, akadns.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, aspnetcdn.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, assets-yammer.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, azure.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, azure.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, azureedge.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, azureiotcentral.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, azurerms.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, bing.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, bing.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, bingapis.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, cloudapp.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, cloudappsecurity.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, edgesuite.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, gfx.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, hotmail.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, live.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, live.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, lync.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msappproxy.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msauth.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msauthimages.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msecnd.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msedge.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msft.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msftauth.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msftauthimages.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msftidentity.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msidentity.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msn.cn, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msn.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msocdn.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, msocsp.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, mstea.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, o365weve.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, oaspapps.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, office.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, office.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, office365.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, officeppe.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, omniroot.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, onedrive.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, onenote.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, onenote.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, onestore.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, outlook.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, outlookmobile.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, phonefactor.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, public-trust.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sfbassets.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sfx.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sharepoint.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sharepointonline.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, skype.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, skypeassets.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, skypeforbusiness.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, staffhub.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, svc.ms, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sway-cdn.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sway-extensions.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sway.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, trafficmanager.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, uservoice.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, virtualearth.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, visualstudio.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, windows-ppe.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, windows.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, windows.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, windowsazure.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, windowsupdate.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, wunderlist.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, yammer.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, yammerusercontent.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, microsoft365.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, microsoftonline.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, microsoftonline-p.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, login.microsoftonline.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, login.live.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, graph.microsoft.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, teams.microsoft.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, teams.live.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, substrate.office.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, outlook.office.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, outlook.office365.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, aadcdn.msftauth.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, aadcdn.msauth.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, mimecast.com, [YOUR_POLICY_NAME]
+
+# ===== School Domains =====
+HOST-SUFFIX, csun.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, jjc.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, spokane.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, liberty.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, sfcollege.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, ccc.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, asu.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, lanecc.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, maricopa.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, riosalado.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, shibboleth.csun.edu, [YOUR_POLICY_NAME]
+HOST-SUFFIX, ctclink.us, [YOUR_POLICY_NAME]
+HOST-SUFFIX, stujjc.sharepoint.com, [YOUR_POLICY_NAME]
+
+# ===== Duo MFA =====
+HOST-SUFFIX, duosecurity.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, duofederal.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, duo.com, [YOUR_POLICY_NAME]
+
+# ===== Learning Platforms =====
+HOST-SUFFIX, cdn.riolearn.org, [YOUR_POLICY_NAME]
+HOST-SUFFIX, instructure.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, canvaslms.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, blackboard.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, turnitin.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, coursera.org, [YOUR_POLICY_NAME]
+HOST-SUFFIX, edx.org, [YOUR_POLICY_NAME]
+
+# ===== Akamai =====
+HOST-SUFFIX, akamai.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, akamaihd.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, akamaized.net, [YOUR_POLICY_NAME]
+HOST-SUFFIX, akamaiedge.net, [YOUR_POLICY_NAME]
+
+# ===== Truecaller =====
+HOST-SUFFIX, truecaller.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, truecaller.net, [YOUR_POLICY_NAME]
+
+# ===== Talkatone =====
+HOST-SUFFIX, talkatone.com, [YOUR_POLICY_NAME]
+HOST-SUFFIX, talkatone.net, [YOUR_POLICY_NAME]
+
+# ===== Saily =====
+HOST-SUFFIX, saily.com, [YOUR_POLICY_NAME]
