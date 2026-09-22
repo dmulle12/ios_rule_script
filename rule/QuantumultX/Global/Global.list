@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:27:20
+# UPDATED: 2026-08-26 02:34:16
 # HOST: 784
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 34759
+# HOST-SUFFIX: 34774
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 35741
+# TOTAL: 35756
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1172,6 +1172,7 @@ HOST-SUFFIX,592r.com,Global
 HOST-SUFFIX,59mvmv.com,Global
 HOST-SUFFIX,5axis-machining.com,Global
 HOST-SUFFIX,5beatsbydre.com,Global
+HOST-SUFFIX,5ch.io,Global
 HOST-SUFFIX,5ch.net,Global
 HOST-SUFFIX,5fang.cc,Global
 HOST-SUFFIX,5itv.tv,Global
@@ -2405,6 +2406,7 @@ HOST-SUFFIX,amazonstudiosguilds.com,Global
 HOST-SUFFIX,amazontrust.com,Global
 HOST-SUFFIX,amazonvideo.cc,Global
 HOST-SUFFIX,amazonvideodirect.com,Global
+HOST-SUFFIX,amazonwebservices.com,Global
 HOST-SUFFIX,amazonworkdocs.com,Global
 HOST-SUFFIX,ambs.ac.uk,Global
 HOST-SUFFIX,amc.com,Global
@@ -6255,7 +6257,6 @@ HOST-SUFFIX,chasestudy.ac.uk,Global
 HOST-SUFFIX,chatango.com,Global
 HOST-SUFFIX,chatgpt.com,Global
 HOST-SUFFIX,chatgpt.livekit.cloud,Global
-HOST-SUFFIX,chatgpt.site,Global
 HOST-SUFFIX,chatgptvideo.xyz,Global
 HOST-SUFFIX,chatgptvideob.buzz,Global
 HOST-SUFFIX,chatsex.xxx,Global
@@ -8317,6 +8318,7 @@ HOST-SUFFIX,drdreprobeatssale.com,Global
 HOST-SUFFIX,dream-cdt.ac.uk,Global
 HOST-SUFFIX,dreambmw.ca,Global
 HOST-SUFFIX,dreamforce.com,Global
+HOST-SUFFIX,dreamgen.com,Global
 HOST-SUFFIX,dreammovies.com,Global
 HOST-SUFFIX,dreamorder.com,Global
 HOST-SUFFIX,dreamteamfc.com,Global
@@ -9890,6 +9892,7 @@ HOST-SUFFIX,fans-here.com,Global
 HOST-SUFFIX,fans17.com,Global
 HOST-SUFFIX,fans66.tw,Global
 HOST-SUFFIX,fansking.tw,Global
+HOST-SUFFIX,fansly.com,Global
 HOST-SUFFIX,fansnudes.com,Global
 HOST-SUFFIX,fansone.co,Global
 HOST-SUFFIX,fanspot.jp,Global
@@ -12553,7 +12556,6 @@ HOST-SUFFIX,hp-invent.info,Global
 HOST-SUFFIX,hp-mns.com,Global
 HOST-SUFFIX,hp-printing.com,Global
 HOST-SUFFIX,hp-webplatform.com,Global
-HOST-SUFFIX,hp-ww.com,Global
 HOST-SUFFIX,hp.company,Global
 HOST-SUFFIX,hp.io,Global
 HOST-SUFFIX,hp3d.com,Global
@@ -18171,6 +18173,8 @@ HOST-SUFFIX,nichost.ru,Global
 HOST-SUFFIX,nicis.ac.uk,Global
 HOST-SUFFIX,nickscipio.com,Global
 HOST-SUFFIX,nicky.xxx,Global
+HOST-SUFFIX,nico.ms,Global
+HOST-SUFFIX,nicochannel.jp,Global
 HOST-SUFFIX,nicodic.jp,Global
 HOST-SUFFIX,nicolepeters.com,Global
 HOST-SUFFIX,nicomanga.jp,Global
@@ -18502,6 +18506,7 @@ HOST-SUFFIX,northumberland.ac.uk,Global
 HOST-SUFFIX,northumbria.ac.uk,Global
 HOST-SUFFIX,norton.com,Global
 HOST-SUFFIX,norwichresearchpark.ac.uk,Global
+HOST-SUFFIX,notegpt.io,Global
 HOST-SUFFIX,noticias-rt.com,Global
 HOST-SUFFIX,notimundo.press,Global
 HOST-SUFFIX,notion-static.com,Global
@@ -18525,6 +18530,7 @@ HOST-SUFFIX,nottinghamknowledge.ac.uk,Global
 HOST-SUFFIX,nottinghamtrentadfs.ac.uk,Global
 HOST-SUFFIX,nottm-coll.ac.uk,Global
 HOST-SUFFIX,nottsmaternity.ac.uk,Global
+HOST-SUFFIX,novelai.net,Global
 HOST-SUFFIX,novella.ac.uk,Global
 HOST-SUFFIX,noveltrove.com,Global
 HOST-SUFFIX,novids.com,Global
@@ -21869,7 +21875,6 @@ HOST-SUFFIX,sayeasy.eu,Global
 HOST-SUFFIX,saynow.com,Global
 HOST-SUFFIX,sb-mobile.jp,Global
 HOST-SUFFIX,sb-telecom.net,Global
-HOST-SUFFIX,sb.sb,Global
 HOST-SUFFIX,sb24.com,Global
 HOST-SUFFIX,sbank.ir,Global
 HOST-SUFFIX,sbc.ac.uk,Global
@@ -23980,6 +23985,7 @@ HOST-SUFFIX,takporn.com,Global
 HOST-SUFFIX,talantix.ru,Global
 HOST-SUFFIX,talentlens.com,Global
 HOST-SUFFIX,taleofthenight.com,Global
+HOST-SUFFIX,talkai.info,Global
 HOST-SUFFIX,talkinghealthmatters.ac.uk,Global
 HOST-SUFFIX,talkingkotlin.com,Global
 HOST-SUFFIX,talksport.com,Global
@@ -28781,6 +28787,7 @@ HOST-SUFFIX,apetube.com,Global
 HOST-SUFFIX,api.ai,Global
 HOST-SUFFIX,api.mixpanel.com,Global
 HOST-SUFFIX,api.moomoobull.com,Global
+HOST-SUFFIX,api.shuaiapi.com,Global
 HOST-SUFFIX,apiary.io,Global
 HOST-SUFFIX,apigee.com,Global
 HOST-SUFFIX,apk-dl.com,Global
@@ -29236,6 +29243,7 @@ HOST-SUFFIX,breakgfw.com,Global
 HOST-SUFFIX,breaking911.com,Global
 HOST-SUFFIX,breakingtweets.com,Global
 HOST-SUFFIX,breakwall.net,Global
+HOST-SUFFIX,briarproject.org,Global
 HOST-SUFFIX,briefdream.com,Global
 HOST-SUFFIX,briian.com,Global
 HOST-SUFFIX,brill.com,Global
@@ -29454,6 +29462,7 @@ HOST-SUFFIX,chaos.social,Global
 HOST-SUFFIX,chapm25.com,Global
 HOST-SUFFIX,character.ai,Global
 HOST-SUFFIX,chat.com,Global
+HOST-SUFFIX,chatgpt.site,Global
 HOST-SUFFIX,chatnook.com,Global
 HOST-SUFFIX,chatpdf.com,Global
 HOST-SUFFIX,chaturbate.com,Global
@@ -31317,6 +31326,7 @@ HOST-SUFFIX,himemix.com,Global
 HOST-SUFFIX,himemix.net,Global
 HOST-SUFFIX,hindustantimes.com,Global
 HOST-SUFFIX,hinet.net,Global
+HOST-SUFFIX,historylines.net,Global
 HOST-SUFFIX,hitbtc.com,Global
 HOST-SUFFIX,hitomi.la,Global
 HOST-SUFFIX,hitun.io,Global
@@ -31933,6 +31943,7 @@ HOST-SUFFIX,kinokuniya.com,Global
 HOST-SUFFIX,kir.jp,Global
 HOST-SUFFIX,kissjav.com,Global
 HOST-SUFFIX,kiwi.kz,Global
+HOST-SUFFIX,kiwix.org,Global
 HOST-SUFFIX,kk-whys.co.jp,Global
 HOST-SUFFIX,kkbox.com,Global
 HOST-SUFFIX,kknews.cc,Global
@@ -32262,6 +32273,7 @@ HOST-SUFFIX,maxing.jp,Global
 HOST-SUFFIX,mayimayi.com,Global
 HOST-SUFFIX,mcadforums.com,Global
 HOST-SUFFIX,mcaf.ee,Global
+HOST-SUFFIX,mceindex.com,Global
 HOST-SUFFIX,mcfog.com,Global
 HOST-SUFFIX,mcreasite.com,Global
 HOST-SUFFIX,mcusercontent.com,Global
@@ -32863,6 +32875,7 @@ HOST-SUFFIX,oklink.com,Global
 HOST-SUFFIX,okpool.me,Global
 HOST-SUFFIX,okx.com,Global
 HOST-SUFFIX,old-cat.net,Global
+HOST-SUFFIX,oldmapsonline.org,Global
 HOST-SUFFIX,olehdtv.com,Global
 HOST-SUFFIX,olelive.com,Global
 HOST-SUFFIX,olevod.com,Global
@@ -33591,6 +33604,7 @@ HOST-SUFFIX,saveuighur.org,Global
 HOST-SUFFIX,savevid.com,Global
 HOST-SUFFIX,say2.info,Global
 HOST-SUFFIX,sb-cd.com,Global
+HOST-SUFFIX,sb.sb,Global
 HOST-SUFFIX,sbme.me,Global
 HOST-SUFFIX,sbs.com.au,Global
 HOST-SUFFIX,sbti.unun.dev,Global
@@ -35243,6 +35257,7 @@ HOST-SUFFIX,x1949x.com,Global
 HOST-SUFFIX,x24hr.com,Global
 HOST-SUFFIX,x365x.com,Global
 HOST-SUFFIX,x3guide.com,Global
+HOST-SUFFIX,x86.fr,Global
 HOST-SUFFIX,xanga.com,Global
 HOST-SUFFIX,xbabe.com,Global
 HOST-SUFFIX,xbookcn.com,Global

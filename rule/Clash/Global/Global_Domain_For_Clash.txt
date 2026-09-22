@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-20 02:26:59
+# UPDATED: 2026-08-26 02:33:54
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34724
+# DOMAIN-SUFFIX: 34739
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35005
+# TOTAL: 35020
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -517,6 +517,7 @@ login.microsoftonline.com
 +.59mvmv.com
 +.5axis-machining.com
 +.5beatsbydre.com
++.5ch.io
 +.5ch.net
 +.5fang.cc
 +.5itv.tv
@@ -1755,6 +1756,7 @@ login.microsoftonline.com
 +.amazontrust.com
 +.amazonvideo.cc
 +.amazonvideodirect.com
++.amazonwebservices.com
 +.amazonworkdocs.com
 +.ambs.ac.uk
 +.amc.com
@@ -5676,7 +5678,6 @@ login.microsoftonline.com
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
-+.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatsex.xxx
@@ -7741,6 +7742,7 @@ login.microsoftonline.com
 +.dream-cdt.ac.uk
 +.dreambmw.ca
 +.dreamforce.com
++.dreamgen.com
 +.dreammovies.com
 +.dreamorder.com
 +.dreamteamfc.com
@@ -9331,6 +9333,7 @@ login.microsoftonline.com
 +.fans17.com
 +.fans66.tw
 +.fansking.tw
++.fansly.com
 +.fansnudes.com
 +.fansone.co
 +.fanspot.jp
@@ -12246,7 +12249,6 @@ login.microsoftonline.com
 +.hp-mns.com
 +.hp-printing.com
 +.hp-webplatform.com
-+.hp-ww.com
 +.hp.company
 +.hp.io
 +.hp3d.com
@@ -17870,6 +17872,8 @@ login.microsoftonline.com
 +.nicis.ac.uk
 +.nickscipio.com
 +.nicky.xxx
++.nico.ms
++.nicochannel.jp
 +.nicodic.jp
 +.nicolepeters.com
 +.nicomanga.jp
@@ -18201,6 +18205,7 @@ login.microsoftonline.com
 +.northumbria.ac.uk
 +.norton.com
 +.norwichresearchpark.ac.uk
++.notegpt.io
 +.noticias-rt.com
 +.notimundo.press
 +.notion-static.com
@@ -18224,6 +18229,7 @@ login.microsoftonline.com
 +.nottinghamtrentadfs.ac.uk
 +.nottm-coll.ac.uk
 +.nottsmaternity.ac.uk
++.novelai.net
 +.novella.ac.uk
 +.noveltrove.com
 +.novids.com
@@ -21596,7 +21602,6 @@ login.microsoftonline.com
 +.saynow.com
 +.sb-mobile.jp
 +.sb-telecom.net
-+.sb.sb
 +.sb24.com
 +.sbank.ir
 +.sbc.ac.uk
@@ -23712,6 +23717,7 @@ login.microsoftonline.com
 +.talantix.ru
 +.talentlens.com
 +.taleofthenight.com
++.talkai.info
 +.talkinghealthmatters.ac.uk
 +.talkingkotlin.com
 +.talksport.com
@@ -28549,6 +28555,7 @@ login.microsoftonline.com
 +.api.ai
 +.api.mixpanel.com
 +.api.moomoobull.com
++.api.shuaiapi.com
 +.apiary.io
 +.apigee.com
 +.apk-dl.com
@@ -28937,6 +28944,7 @@ login.microsoftonline.com
 +.breaking911.com
 +.breakingtweets.com
 +.breakwall.net
++.briarproject.org
 +.briefdream.com
 +.briian.com
 +.brill.com
@@ -29151,6 +29159,7 @@ login.microsoftonline.com
 +.chapm25.com
 +.character.ai
 +.chat.com
++.chatgpt.site
 +.chatnook.com
 +.chatpdf.com
 +.chaturbate.com
@@ -30713,6 +30722,7 @@ login.microsoftonline.com
 +.himemix.net
 +.hindustantimes.com
 +.hinet.net
++.historylines.net
 +.hitbtc.com
 +.hitomi.la
 +.hitun.io
@@ -31325,6 +31335,7 @@ login.microsoftonline.com
 +.kir.jp
 +.kissjav.com
 +.kiwi.kz
++.kiwix.org
 +.kk-whys.co.jp
 +.kkbox.com
 +.kknews.cc
@@ -31652,6 +31663,7 @@ login.microsoftonline.com
 +.mayimayi.com
 +.mcadforums.com
 +.mcaf.ee
++.mceindex.com
 +.mcfog.com
 +.mcreasite.com
 +.mcusercontent.com
@@ -32252,6 +32264,7 @@ login.microsoftonline.com
 +.okpool.me
 +.okx.com
 +.old-cat.net
++.oldmapsonline.org
 +.olehdtv.com
 +.olelive.com
 +.olevod.com
@@ -32948,6 +32961,7 @@ login.microsoftonline.com
 +.savevid.com
 +.say2.info
 +.sb-cd.com
++.sb.sb
 +.sbme.me
 +.sbs.com.au
 +.sbti.unun.dev
@@ -34562,6 +34576,7 @@ login.microsoftonline.com
 +.x24hr.com
 +.x365x.com
 +.x3guide.com
++.x86.fr
 +.xanga.com
 +.xbabe.com
 +.xbookcn.com
