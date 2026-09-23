@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-26 02:33:54
+# UPDATED: 2026-09-22 05:32:46
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34739
+# DOMAIN-SUFFIX: 34772
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35020
+# TOTAL: 35053
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -664,6 +664,7 @@ login.microsoftonline.com
 +.9anime.id
 +.9anime.to
 +.9anime.ws
++.9cao9.com
 +.9ccms.me
 +.9cdn.net
 +.9hentai.ru
@@ -898,6 +899,7 @@ login.microsoftonline.com
 +.adguard.info
 +.adguard.io
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -3928,6 +3930,7 @@ login.microsoftonline.com
 +.blackboxgames.com
 +.blackburn.ac.uk
 +.blackcountryandmarchesiot.ac.uk
++.blackedraw.com
 +.blackfridaydrebeatsnew.com
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
@@ -6154,6 +6157,7 @@ login.microsoftonline.com
 +.code.org
 +.codeberg.org
 +.codeberg.page
++.codebuff.com
 +.codecademy.com
 +.codeforaliving.io
 +.codeforces.com
@@ -6593,7 +6597,6 @@ login.microsoftonline.com
 +.ctan.org
 +.ctc.ac.uk
 +.ctcrm.ac.uk
-+.ctee.com.tw
 +.ctfassets.net
 +.ctg.ac.uk
 +.ctk.ac.uk
@@ -9665,11 +9668,13 @@ login.microsoftonline.com
 +.fire-emblem-heroes.com
 +.firebase-settings.crashlytics.com
 +.firebase.com
++.firebase.dev
 +.firebase.io
 +.firebaseapp.com
 +.firech.at
 +.fireemblemawakening.com
 +.fireflyresearch.ac.uk
++.firefox-portal-detection.com
 +.firefox.hu
 +.firefoxtweetmachine.com
 +.firefoxusercontent.com
@@ -10065,6 +10070,7 @@ login.microsoftonline.com
 +.freebigmovies.com
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecamstars.com
 +.freecartoons.biz
@@ -10361,6 +10367,8 @@ login.microsoftonline.com
 +.gastrointestinalexam.com
 +.gate.ac.uk
 +.gate.cc
++.gate.tv
++.gateapi.io
 +.gatedata.org
 +.gateimg.com
 +.gateio.live
@@ -11401,6 +11409,7 @@ login.microsoftonline.com
 +.h-webtoon.com
 +.h0930.com
 +.h18ani1.vip
++.h264.io
 +.h2o.ai
 +.h2porn.com
 +.habr.com
@@ -11761,7 +11770,6 @@ login.microsoftonline.com
 +.hentai.pink
 +.hentai.pro
 +.hentai.toys
-+.hentai.tv
 +.hentai0.com
 +.hentai01.com
 +.hentai2.net
@@ -16306,6 +16314,7 @@ login.microsoftonline.com
 +.milftube.pro
 +.milftugs.com
 +.milfvr.com
++.milfy.com
 +.milfzr.com
 +.miliav.com
 +.milkmanbook.com
@@ -17878,7 +17887,6 @@ login.microsoftonline.com
 +.nicolepeters.com
 +.nicomanga.jp
 +.niconico.com
-+.nicoseiga.jp
 +.niees.ac.uk
 +.niesr.ac.uk
 +.night.livedoor.biz
@@ -18150,6 +18158,7 @@ login.microsoftonline.com
 +.nodequality.com
 +.nodereal.io
 +.nodes.ac.uk
++.nodeseek.org
 +.nodesnoop.com
 +.nodesource.com
 +.noisullifb.com
@@ -18964,6 +18973,7 @@ login.microsoftonline.com
 +.oursexgames.com
 +.ourshdtv.com
 +.ourshemales.com
++.ouryahoo.com
 +.oustudios.ac.uk
 +.out-app-purchase.com
 +.outbound.io
@@ -20969,6 +20979,7 @@ login.microsoftonline.com
 +.relu.ac.uk
 +.rememberingslavery.ac.uk
 +.remirepo.net
++.remna.st
 +.rems-cdt.ac.uk
 +.renaissanceskin.ac.uk
 +.rencapbank.ru
@@ -22535,6 +22546,7 @@ login.microsoftonline.com
 +.slashdot.org
 +.slavbank.ru
 +.slavicstar.com
++.slayed.com
 +.slc.ac.uk
 +.slc.tl
 +.slcollege.ac.uk
@@ -23358,6 +23370,9 @@ login.microsoftonline.com
 +.stripe-terminal-local-reader.net
 +.stripe.ac.uk
 +.stripe.com
++.stripe.dev
++.stripe.events
++.stripe.global
 +.stripe.network
 +.stripecdn.com
 +.stripparadise.com
@@ -23475,7 +23490,6 @@ login.microsoftonline.com
 +.superstem.ac.uk
 +.supertop.co
 +.superuser.com
-+.supjav.com
 +.supply-chain.ac.uk
 +.supplybestjerseys.com
 +.support-uber.com
@@ -23694,7 +23708,6 @@ login.microsoftonline.com
 +.tagapie.com.tw
 +.tagbank.ru
 +.tags.ac.uk
-+.taiav.com
 +.taiko.xyz
 +.tail-f.com
 +.tailf.com
@@ -23958,6 +23971,7 @@ login.microsoftonline.com
 +.textminingcentre.ac.uk
 +.texttobuy.org
 +.texture.com
++.tfbnw.net
 +.tferwq.com
 +.tfsallin.net
 +.tgac.ac.uk
@@ -24357,6 +24371,7 @@ login.microsoftonline.com
 +.toperoticartsites.com
 +.topescort.nl
 +.topescortbabes.com
++.topexhib.net
 +.topface.com
 +.topfantasyart.com
 +.topfreepornvideos.com
@@ -24667,6 +24682,7 @@ login.microsoftonline.com
 +.turn.livekit.cloud
 +.tusco.ru
 +.tushy.com
++.tushyraw.com
 +.tuta.com
 +.tuta.io
 +.tutamail.com
@@ -25760,6 +25776,7 @@ login.microsoftonline.com
 +.vitukali.com
 +.vivaxnxx.com
 +.vixen.com
++.vixengroup.com
 +.vixvids.to
 +.viznet.ac.uk
 +.vk-apps.com
@@ -27527,6 +27544,7 @@ login.microsoftonline.com
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosportsbook.com
 +.yaklass.ru
@@ -28191,6 +28209,8 @@ login.microsoftonline.com
 +.10conditionsoflove.com
 +.10musume.com
 +.111666.best
++.123av.com
++.123av.me
 +.123rf.com
 +.12bet.com
 +.12vpn.com
@@ -29444,6 +29464,7 @@ login.microsoftonline.com
 +.csw.org.uk
 +.ct.org.tw
 +.ctao.org
++.ctee.com.tw
 +.ctfriend.net
 +.ctinets.com
 +.ctinews.com
@@ -30398,6 +30419,7 @@ login.microsoftonline.com
 +.getlantern.org
 +.getmalus.com
 +.getmdl.io
++.getmonero.org
 +.getoutline.org
 +.getpricetag.com
 +.getsession.org
@@ -30676,6 +30698,7 @@ login.microsoftonline.com
 +.helpzhuling.org
 +.hembed.com
 +.hentai.to
++.hentai.tv
 +.hentaitube.tv
 +.hentaivideoworld.com
 +.heqinglian.net
@@ -31484,6 +31507,7 @@ login.microsoftonline.com
 +.linpie.com
 +.linux.do
 +.linux.org.hk
++.linux.sb
 +.linuxtoy.org
 +.lionsroar.com
 +.lipuman.com
@@ -32107,6 +32131,7 @@ login.microsoftonline.com
 +.nhncorp.jp
 +.nianticlabs.com
 +.nic.gov
++.nicoseiga.jp
 +.nicovideo.jp
 +.nighost.org
 +.nightlife141.com
@@ -32723,6 +32748,7 @@ login.microsoftonline.com
 +.qstatus.com
 +.qtrac.eu
 +.qtweeter.com
++.quakemachinex.com
 +.quannengshen.org
 +.quantumbooter.net
 +.quay.io
@@ -32871,6 +32897,7 @@ login.microsoftonline.com
 +.roblox.com
 +.roboforex.com
 +.robustnessiskey.com
++.roc-taiwan.org
 +.rocket-inc.net
 +.rocket.chat
 +.rocketbbs.com
@@ -32886,6 +32913,7 @@ login.microsoftonline.com
 +.rotten.com
 +.rou.video
 +.roucdn.link
++.roushuwo.com
 +.rpglogs.com
 +.rsdlmonitor.com
 +.rsf-chinese.org
@@ -33400,6 +33428,7 @@ login.microsoftonline.com
 +.superpages.com
 +.supervpn.net
 +.superzooi.com
++.supjav.com
 +.suppig.net
 +.supremecourt.gov
 +.suprememastertv.com
@@ -33450,6 +33479,7 @@ login.microsoftonline.com
 +.tagwa.org.au
 +.tagwalk.com
 +.tahr.org.tw
++.taiav.com
 +.tails.net
 +.taipeisociety.org
 +.taipeitimes.com
@@ -33459,6 +33489,7 @@ login.microsoftonline.com
 +.taiwancon.com
 +.taiwandaily.net
 +.taiwandc.org
++.taiwanembassy.org
 +.taiwanhot.net
 +.taiwanjustice.com
 +.taiwanjustice.net
@@ -34543,11 +34574,13 @@ login.microsoftonline.com
 +.wqyd.org
 +.wrchina.org
 +.wretch.cc
++.write.as
 +.writesonic.com
 +.wsj.com
 +.wsj.net
 +.wsjhk.com
 +.wtbn.org
++.wtfpass.com
 +.wtfpeople.com
 +.wuerkaixi.com
 +.wufafangwen.com

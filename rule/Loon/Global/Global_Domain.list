@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-26 02:33:54
+# UPDATED: 2026-09-22 05:32:45
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34739
+# DOMAIN-SUFFIX: 34772
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 35065
+# TOTAL: 35098
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -52,6 +52,8 @@
 .119474.xyz
 .11jav.com
 .123-hp.com
+.123av.com
+.123av.me
 .123bin.cc
 .123dapp.com
 .123dappipad.com
@@ -685,6 +687,7 @@
 .9bis.com
 .9bis.net
 .9cache.com
+.9cao9.com
 .9ccms.me
 .9cdn.net
 .9gag.com
@@ -962,6 +965,7 @@
 .adguard.io
 .adguard.org
 .adguardaccount.com
+.adguardaccount.net
 .adguardcdn.com
 .adguardvpn.com
 .adhelpnews.com
@@ -4476,6 +4480,7 @@
 .blackburn.ac.uk
 .blackcountryandmarchesiot.ac.uk
 .blacked.com
+.blackedraw.com
 .blackfridaydrebeatsnew.com
 .blackfridaydrebeatsshop.com
 .blackhomeporn.com
@@ -7202,6 +7207,7 @@
 .code1984.com
 .codeberg.org
 .codeberg.page
+.codebuff.com
 .codecademy.com
 .codeforaliving.io
 .codeforces.com
@@ -11433,12 +11439,14 @@
 .firearmsworld.net
 .firebase-settings.crashlytics.com
 .firebase.com
+.firebase.dev
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 .firech.at
 .fireemblemawakening.com
 .fireflyresearch.ac.uk
+.firefox-portal-detection.com
 .firefox.com
 .firefox.hu
 .firefoxtweetmachine.com
@@ -11919,6 +11927,7 @@
 .freebrowser.org
 .freebs.com
 .freebsd.org
+.freebuff.com
 .freecamsfan.com
 .freecamstars.com
 .freecartoons.biz
@@ -12399,6 +12408,8 @@
 .gate.cc
 .gate.com
 .gate.io
+.gate.tv
+.gateapi.io
 .gatecoin.com
 .gatedata.org
 .gateimg.com
@@ -12643,6 +12654,7 @@
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getmonero.org
 .getnews.jp
 .getoutline.org
 .getpaint.net
@@ -13706,6 +13718,7 @@
 .h0930.com
 .h18ani1.vip
 .h1n1china.org
+.h264.io
 .h2o.ai
 .h2porn.com
 .h528.com
@@ -18241,6 +18254,7 @@
 .linux.do
 .linux.org
 .linux.org.hk
+.linux.sb
 .linuxfoundation.org
 .linuxfromscratch.org
 .linuxmint.com
@@ -19751,6 +19765,7 @@
 .milftube.pro
 .milftugs.com
 .milfvr.com
+.milfy.com
 .milfzr.com
 .miliav.com
 .milkmanbook.com
@@ -21985,6 +22000,7 @@
 .nodereal.io
 .nodes.ac.uk
 .nodeseek.com
+.nodeseek.org
 .nodesnoop.com
 .nodesource.com
 .nofile.io
@@ -23007,6 +23023,7 @@
 .oursteps.com.au
 .oursweb.net
 .ourtv.hk
+.ouryahoo.com
 .oustudios.ac.uk
 .out-app-purchase.com
 .outbound.io
@@ -24950,6 +24967,7 @@
 .quadram.ac.uk
 .quadraminstitute.ac.uk
 .quadrat.ac.uk
+.quakemachinex.com
 .qualcomm-email.com
 .qualcomm-inc.com
 .qualcomm.co.id
@@ -25492,6 +25510,7 @@
 .relu.ac.uk
 .rememberingslavery.ac.uk
 .remirepo.net
+.remna.st
 .rems-cdt.ac.uk
 .renaissanceskin.ac.uk
 .rencapbank.ru
@@ -25732,6 +25751,7 @@
 .roborecall.com
 .robotoffice.com
 .robustnessiskey.com
+.roc-taiwan.org
 .rochdalesfc.ac.uk
 .rocket-inc.net
 .rocket.chat
@@ -25802,6 +25822,7 @@
 .roughebonysex.com
 .roughman.net
 .roundtable.ac.uk
+.roushuwo.com
 .routerboard.com
 .routesintolanguages.ac.uk
 .routledgehandbooks.com
@@ -27393,6 +27414,7 @@
 .slashine.onl
 .slavbank.ru
 .slavicstar.com
+.slayed.com
 .slaytizle.com
 .slc.ac.uk
 .slc.tl
@@ -28417,6 +28439,9 @@
 .stripe-terminal-local-reader.net
 .stripe.ac.uk
 .stripe.com
+.stripe.dev
+.stripe.events
+.stripe.global
 .stripe.network
 .stripecdn.com
 .stripparadise.com
@@ -28856,6 +28881,7 @@
 .taiwancon.com
 .taiwandaily.net
 .taiwandc.org
+.taiwanembassy.org
 .taiwanhot.net
 .taiwanjobs.gov.tw
 .taiwanjustice.com
@@ -29208,6 +29234,7 @@
 .textnow.me
 .texttobuy.org
 .texture.com
+.tfbnw.net
 .tfc-taiwan.org.tw
 .tferwq.com
 .tfhub.dev
@@ -29850,6 +29877,7 @@
 .toperoticartsites.com
 .topescort.nl
 .topescortbabes.com
+.topexhib.net
 .topface.com
 .topfantasyart.com
 .topfreepornvideos.com
@@ -30269,6 +30297,7 @@
 .tusco.ru
 .tushy.com
 .tushycash.com
+.tushyraw.com
 .tuta.com
 .tuta.io
 .tutamail.com
@@ -31688,6 +31717,7 @@
 .vivaxnxx.com
 .vivthomas.com
 .vixen.com
+.vixengroup.com
 .vixvids.to
 .viznet.ac.uk
 .vizvaz.com
@@ -32983,6 +33013,7 @@
 .wretch.cc
 .wrexham.ac.uk
 .wripa.ac.uk
+.write.as
 .writenow.ac.uk
 .writesonic.com
 .writing-pad.ac.uk
@@ -33010,6 +33041,7 @@
 .wspcr.ac.uk
 .wtbn.org
 .wtc.ac.uk
+.wtfpass.com
 .wtfpeople.com
 .wtmobile.com
 .wto.org
@@ -33911,6 +33943,7 @@
 .yahoodns.net
 .yahoofinance.com
 .yahoohealth.com
+.yahooinc.com
 .yahoomusic.com
 .yahoosandbox.com
 .yahoosportsbook.com

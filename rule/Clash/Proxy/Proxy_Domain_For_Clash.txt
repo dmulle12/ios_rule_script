@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-26 02:34:17
+# UPDATED: 2026-09-14 04:08:54
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6769
+# DOMAIN-SUFFIX: 6784
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6901
+# TOTAL: 6916
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -28,6 +28,8 @@ voice.telephony.goog
 +.10conditionsoflove.com
 +.10musume.com
 +.111666.best
++.123av.com
++.123av.me
 +.123rf.com
 +.12bet.com
 +.12vpn.com
@@ -1310,6 +1312,7 @@ voice.telephony.goog
 +.csw.org.uk
 +.ct.org.tw
 +.ctao.org
++.ctee.com.tw
 +.ctfriend.net
 +.ctinets.com
 +.ctinews.com
@@ -2272,6 +2275,7 @@ voice.telephony.goog
 +.getlantern.org
 +.getmalus.com
 +.getmdl.io
++.getmonero.org
 +.getoutline.org
 +.getpricetag.com
 +.getsession.org
@@ -2552,6 +2556,7 @@ voice.telephony.goog
 +.helpzhuling.org
 +.hembed.com
 +.hentai.to
++.hentai.tv
 +.hentaitube.tv
 +.hentaivideoworld.com
 +.heqinglian.net
@@ -3364,6 +3369,7 @@ voice.telephony.goog
 +.linpie.com
 +.linux.do
 +.linux.org.hk
++.linux.sb
 +.linuxtoy.org
 +.lionsroar.com
 +.lipuman.com
@@ -3991,6 +3997,7 @@ voice.telephony.goog
 +.nhncorp.jp
 +.nianticlabs.com
 +.nic.gov
++.nicoseiga.jp
 +.nicovideo.jp
 +.nighost.org
 +.nightlife141.com
@@ -4612,6 +4619,7 @@ voice.telephony.goog
 +.qstatus.com
 +.qtrac.eu
 +.qtweeter.com
++.quakemachinex.com
 +.quannengshen.org
 +.quantumbooter.net
 +.quay.io
@@ -4760,6 +4768,7 @@ voice.telephony.goog
 +.roblox.com
 +.roboforex.com
 +.robustnessiskey.com
++.roc-taiwan.org
 +.rocket-inc.net
 +.rocket.chat
 +.rocketbbs.com
@@ -4775,6 +4784,7 @@ voice.telephony.goog
 +.rotten.com
 +.rou.video
 +.roucdn.link
++.roushuwo.com
 +.rpglogs.com
 +.rsdlmonitor.com
 +.rsf-chinese.org
@@ -5295,6 +5305,7 @@ voice.telephony.goog
 +.superpages.com
 +.supervpn.net
 +.superzooi.com
++.supjav.com
 +.suppig.net
 +.supremecourt.gov
 +.suprememastertv.com
@@ -5346,6 +5357,7 @@ voice.telephony.goog
 +.tagwa.org.au
 +.tagwalk.com
 +.tahr.org.tw
++.taiav.com
 +.tails.net
 +.taipeisociety.org
 +.taipeitimes.com
@@ -5355,6 +5367,7 @@ voice.telephony.goog
 +.taiwancon.com
 +.taiwandaily.net
 +.taiwandc.org
++.taiwanembassy.org
 +.taiwanhot.net
 +.taiwanjustice.com
 +.taiwanjustice.net
@@ -6448,11 +6461,13 @@ voice.telephony.goog
 +.wr.pvp.net
 +.wrchina.org
 +.wretch.cc
++.write.as
 +.writesonic.com
 +.wsj.com
 +.wsj.net
 +.wsjhk.com
 +.wtbn.org
++.wtfpass.com
 +.wtfpeople.com
 +.wuerkaixi.com
 +.wufafangwen.com
